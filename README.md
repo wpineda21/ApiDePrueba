@@ -32,13 +32,17 @@ Tambien Puedes Acceder a nuestra Pagina Promocional y Descargarla:
 ## Manual de usuario
 
 ```sh
-$ Crear una cuenta en la pagina web.
+$ Crear una cuenta en la Aplicacion Movil 
 $ Ingresar las credenciales al login para los accesos correspondientes.
-$ Se le dara acceso al funcionamiento de la pagina web para poder agregar y editar información.
+$ Se le dara acceso al funcionamiento de la Aplicacion Movil donde podra comenzar a usar sus funcionalidades.
 $ Puede ver la informacion de su perfil.
 $ Necesita un nuevo horario de medicamento para recordarlo
 $ Guardar el medicamento que debe tomar
 $ Mostrar el historial de medicamentos
 $ Agregar un examen medico
 ```
+
+Para La Organizacion y el trabajo en equipo de Este Proyecto Grupal Utilizamos la Plataforma TRELLO:
+
+- [Link de Nuestro Repositorio para trabajo colaborativo en TRELLO](https://trello.com/b/ZfMnauln/m%C3%B3viles)
 
