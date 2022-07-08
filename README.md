@@ -1,6 +1,6 @@
 ![Healthy Pocket 2021](https://user-images.githubusercontent.com/54713857/178040318-4bec53ba-d35d-4d10-b0c1-c7906ba4dab8.png)
 
-
+## Healthy Pocket una Aplicacion Distinta
 
 ## Usuario de Prueba
 
@@ -15,12 +15,12 @@ $ Password: password
 
 ## Guía de instalación
 
-Para una instalación local se necesitan las siguientes herramientas:
+Para una instalación local Puedes descargar la aplicacion en el siguiente Lugar:
 
 - [APK de Instalacion](https://drive.google.com/drive/folders/1AqX6BmSRh0Fy_Me2-_7f0L-fKE3SQbdV)
 
 ```sh
-$ Descargamos el correspondiente a nuestro Sistema Operativo
+$ Descargamos La APK e instalamos
 ```
 
 - [DBeaver Community](https://dbeaver.io/)
