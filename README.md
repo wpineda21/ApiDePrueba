@@ -6,7 +6,6 @@
 
 Para comenzar con la nevegación en la aplicacion Movil
 
-![alt text](https://raw.githubusercontent.com/)
 
 ```sh
 $ El usuario de Prueba corresponde a las siguientes credenciales para su acceso.
