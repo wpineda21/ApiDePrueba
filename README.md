@@ -1,6 +1,5 @@
-![Healthy Pocket 2021](https://user-images.githubusercontent.com/54713857/178040318-4bec53ba-d35d-4d10-b0c1-c7906ba4dab8.png)
-
 ## Healthy Pocket una Aplicacion Distinta
+![Pensando En tu Salud](https://user-images.githubusercontent.com/54713857/178068731-09d27889-58b5-49d2-9e00-3626510e2be5.gif)
 
 ## Usuario de Prueba
 
