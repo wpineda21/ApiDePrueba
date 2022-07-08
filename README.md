@@ -42,7 +42,7 @@ $ Mostrar el historial de medicamentos
 $ Agregar un examen medico
 ```
 
-Para La Organizacion y el trabajo en equipo de Este Proyecto Grupal Utilizamos la Plataforma TRELLO:
+Para La Organizacion y el trabajo Colobarotavo de Este Proyecto Grupal Utilizamos la Plataforma TRELLO:
 
 - [Link de Nuestro Repositorio para trabajo colaborativo en TRELLO](https://trello.com/b/ZfMnauln/m%C3%B3viles)
 
