@@ -17,7 +17,7 @@ $ Password: password
 
 Para una instalación local se necesitan las siguientes herramientas:
 
-- [Spring Tools 4 for Eclipse](https://spring.io/tools)
+- [APK de Instalacion](https://drive.google.com/drive/folders/1AqX6BmSRh0Fy_Me2-_7f0L-fKE3SQbdV)
 
 ```sh
 $ Descargamos el correspondiente a nuestro Sistema Operativo
