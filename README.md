@@ -22,27 +22,12 @@ Para una instalación local Puedes descargar la aplicacion en el siguiente Lugar
 ```sh
 $ Descargamos La APK e instalamos
 ```
+Tambien Puedes Acceder a nuestra Pagina Promocional y Descargarla:
 
-- [DBeaver Community](https://dbeaver.io/)
+- [Pagina Promocional](https://healthypocket1.wordpress.com/)
 
-```sh
-$ Creamos la base de datos que se implementa en el proyecto.
-```
+![image](https://user-images.githubusercontent.com/54713857/178043200-3878430b-a4d6-4887-8688-0a6cdd7f949c.png)
 
-- Utilizamos una imagen de [Postgres](https://hub.docker.com/)
-
-```sh
-$ Seleccionamos la imagen con la que se desea trabajar, para el desarrollo de este proyecto se utilizo la de Postgres
-$ Se procede a la instalacion correspondiente con: docker pull postgres
-$ Instalado el Postgres se debe hacer las configuraciones correspondientes con el comando: docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres
-```
-
-- [Docker](https://www.docker.com/products/docker-desktop/)
-
-```sh
-$ Administramos la imagen creada de Postgres
-$ La imagen debe de tener el estado "RUN"
-```
 
 ## Manual de usuario
 
