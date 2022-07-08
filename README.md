@@ -46,3 +46,10 @@ Para La Organizacion y el trabajo Colobarotavo de Este Proyecto Grupal Utilizamo
 
 - [Link de Nuestro Repositorio para trabajo colaborativo en TRELLO](https://trello.com/b/ZfMnauln/m%C3%B3viles)
 
+Puedes Acceder a Nuestra Pagina Administrativa en el Siguiente Link:
+
+- [Pagina Administrativa](https://moviles-healthy-pocket.herokuapp.com/)
+
+![image](https://user-images.githubusercontent.com/54713857/178045897-aa75973b-7f98-40d9-a7c7-02a1696b92b1.png)
+
+
